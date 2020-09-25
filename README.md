@@ -5,7 +5,7 @@
 - Developed a WebApp in which users can dynamically add burger ingredients and can see a preview of a burger.
 - Also, the user can order a burger and can see his previews orders.
 ## Fetures
-![Burger builder](https://drive.google.com/file/d/1bEWRBfJ-W5NqdPC8-F8gq-PNQdNiDHUR/view?usp=sharing)
+![Burger builder](https://ibb.co/WgBVbmR)
 - Latest News
 - News by Categories
 - News by Terms

@@ -6,15 +6,15 @@
 - Also, the user can order a burger and can see his previews orders.
 ## Fetures
 ![Burger builder](https://github.com/ppm143/AllProjectImages/blob/master/BurgerBuilder/burger1.png)
-- Latest News
-- News by Categories
-- News by Terms
-- News by Sources
+- Daynamically add ingredients
+- Price of Burger
+- Order Now
 ![Burger builder](https://github.com/ppm143/AllProjectImages/blob/master/BurgerBuilder/burger2.png)
-- Open article number
-- Go Back
+- Order Buy and Cancel 
 ![Burger builder](https://github.com/ppm143/AllProjectImages/blob/master/BurgerBuilder/burger3.png)
+- User Contact Form
 ![Burger builder](https://github.com/ppm143/AllProjectImages/blob/master/BurgerBuilder/burger4.png)
+- Old Orders
 ## Steps to run
 - Clone or download this repository
 - Go to the project root directory and open terminal/cmd
